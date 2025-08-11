@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="zauLsDg1bkO6I90dOTNb6Q" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="micnt.com.ec/cntapp/guia104/php/guia_cntat.php" CVScreenId="0f85e4ab-68ad-4619-937a-6fcdaa634b23" CvType="AnyWordGroup" DesignTimeRectangle="191, 1088, 1079, 32" ElementType="Cell" FuzzySelectorArgument="&lt;ctrl name=':: Guía Telefónica CNT EP ::' role='document' matching:name='fuzzy' fuzzylevel:name='0.0' /&gt;&lt;ctrl role='row' /&gt;&lt;ctrl role='cell' automationid='' matching:automationid='fuzzy' fuzzylevel:automationid='0.0' /&gt;" Guid="7a366a3b-6f3a-468c-ab99-7083b29a6028" ScopeSelectorArgument="&lt;wnd app='msedge.exe' cls='Chrome_WidgetWin_1' title=':: Guía Telefónica CNT EP :: y 3 páginas más - Personal: Microso*' /&gt;" SearchSteps="FuzzySelector, CV" Version="V6" Visibility="Interactive" WaitForReadyArgument="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="0f85e4ab-68ad-4619-937a-6fcdaa634b23" CvTextArea="614, 1013, 231, 16" CvTextArgument=":: DATOS TELEFONICOS ::" CvType="Text" DesignTimeRectangle="616, 1012, 229, 20" ElementType="InputBox" FullSelectorArgument="&lt;ctrl name=':: Guía Telefónica CNT EP ::' role='document' /&gt;&lt;ctrl role='row' /&gt;&lt;ctrl name=':: DATOS TELEFONICOS ::' role='cell' /&gt;&lt;ctrl role='editable text' /&gt;" Guid="33def53b-fdca-4900-b943-ff055a6c764f" SearchSteps="Selector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="1804768650be87e4dc99f43809e7c2d4.png" xmlns="">0aEQH69-KnkeG6w4R0a_6iA</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">GetText</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

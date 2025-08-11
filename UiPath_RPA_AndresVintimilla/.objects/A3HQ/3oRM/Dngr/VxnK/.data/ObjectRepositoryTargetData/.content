@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="od3TZ9qjpEKRcpb4EvM2Pw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="micnt.com.ec/cntapp/guia104/php/guia_cntat.php" CVScreenId="e950af0b-fa2f-418b-99d8-319905051632" CvType="AnyWordGroup" DesignTimeRectangle="581, 698, 863, 31" ElementType="Text" FullSelectorArgument="&lt;webctrl css-selector='body&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;table' idx='2' tag='TABLE' /&gt;&lt;webctrl tableRow='1' tag='TD' /&gt;" Guid="6bc99f2f-677c-4347-b9b7-268395e8c8a3" ScopeSelectorArgument="&lt;html app='msedge.exe' title=':: Guía Telefónica CNT EP ::' /&gt;" SearchSteps="Selector, CV" Version="V6" Visibility="Interactive" WaitForReadyArgument="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="e950af0b-fa2f-418b-99d8-319905051632" CvTextArea="287, 794, 171, 19" CvTextArgument="FORMA DE USO:" CvType="Text" DesignTimeRectangle="289, 790, 1663, 30" ElementType="Text" FuzzySelectorArgument="&lt;webctrl tag='P' type='' class='titlesmall textblue' aaname='FORMA DE USO:' matching:class='fuzzy' fuzzylevel:class='0.0' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' check:innerText='FORMA DE USO:' /&gt;" Guid="61d272de-6dec-4c0f-84b0-f244ed4e819d" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="0481eef5b6ed92d7a5636508e1fe1e78.png" xmlns="">0KNI9zL7IJ0SrrTfyKcHQFg</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">GetText</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

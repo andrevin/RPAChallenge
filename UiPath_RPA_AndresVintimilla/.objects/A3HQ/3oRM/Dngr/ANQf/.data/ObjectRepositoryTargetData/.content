@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="jETAPqlrC0-lx47B648RNg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="micnt.com.ec/cntapp/guia104/php/guia_cntat.php" CVScreenId="790c5190-9d6c-4b5f-85f9-fe69bd488a2c" CvElementArea="652, 757, 103, 54" CvTextArea="674, 774, 61, 19" CvTextArgument="Enviar" CvType="Button" DesignTimeRectangle="655, 760, 98, 50" ElementType="Button" FullSelectorArgument="&lt;webctrl idx='2' tag='TABLE' /&gt;&lt;webctrl tableRow='3' tag='BUTTON' /&gt;" Guid="54cff7be-b917-4fec-a609-9a01eb3326cf" ScopeSelectorArgument="&lt;html app='msedge.exe' title=':: Guía Telefónica CNT EP ::' /&gt;" SearchSteps="Selector, CV" Version="V6" Visibility="Interactive" WaitForReadyArgument="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="790c5190-9d6c-4b5f-85f9-fe69bd488a2c" CvElementArea="1116, 758, 113, 54" CvTextArea="1137, 774, 72, 22" CvTextArgument="Limpiar" CvType="Button" DesignTimeRectangle="1120, 760, 107, 50" ElementType="Button" FuzzySelectorArgument="&lt;webctrl tag='TABLE' /&gt;&lt;webctrl aaname='Limpiar' type='' tag='BUTTON' class='btn btn-default' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' matching:class='fuzzy' fuzzylevel:class='0.0' check:innerText='Limpiar' /&gt;" Guid="f470c9dc-a574-4897-8d24-ed2e03d651c7" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="d1c1b221b4c4a5c2e27e51db98765b29.png" xmlns="">03jKCJZqdUkCBVibJ0wSc7g</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

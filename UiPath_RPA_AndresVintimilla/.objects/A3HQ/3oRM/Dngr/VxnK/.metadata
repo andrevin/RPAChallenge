@@ -1,0 +1,14 @@
+﻿{
+  "Name": "FORMA DE USO",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "VxnKkycbsEONq6uP1oGxsg",
+  "Reference": "d5mNnpfgZ0672Hsq51S7_g/VxnKkycbsEONq6uP1oGxsg",
+  "ParentRef": "d5mNnpfgZ0672Hsq51S7_g/DngrK0nYnU2V6Pn_QHFsMA",
+  "Created": "2025-08-10T23:13:55.6292586Z",
+  "Updated": "2025-08-10T23:13:55.6292586Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.12.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.6.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

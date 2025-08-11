@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Limpiar",
+  "Type": "Element",
+  "TaxonomyType": "Button",
+  "Id": "HnryZLHpBkOAlTgcRHzcwQ",
+  "Reference": "d5mNnpfgZ0672Hsq51S7_g/HnryZLHpBkOAlTgcRHzcwQ",
+  "ParentRef": "d5mNnpfgZ0672Hsq51S7_g/DngrK0nYnU2V6Pn_QHFsMA",
+  "Created": "2025-08-10T21:37:30.3419314Z",
+  "Updated": "2025-08-10T21:37:30.3419314Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.12.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.6.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

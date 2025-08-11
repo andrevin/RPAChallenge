@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="S4LATQkf1U-aiEgHYBhdsw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="micnt.com.ec/cntapp/guia104/php/guia_cntat.php" CVScreenId="8c4f6068-9591-4da0-8b93-55bc107d8afd" CvElementArea="670, 941, 111, 54" CvTextArea="690, 959, 72, 22" CvTextArgument="Limpiar" CvType="Button" DesignTimeRectangle="673, 944, 108, 51" ElementType="Button" FullSelectorArgument="&lt;ctrl name=':: Guía Telefónica CNT EP ::' role='document' /&gt;&lt;ctrl idx='3' role='row' /&gt;&lt;ctrl name='Limpiar' role='cell' /&gt;&lt;ctrl name='Limpiar' role='push button' /&gt;" Guid="5d1ef218-bec3-4154-84be-ae71861f0595" ScopeSelectorArgument="&lt;wnd app='msedge.exe' cls='Chrome_WidgetWin_1' title=':: Guía Telefónica CNT EP :: y 1 página más - Personal: Microsof*' /&gt;" SearchSteps="Selector, CV" Version="V6" Visibility="Interactive" WaitForReadyArgument="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="8c4f6068-9591-4da0-8b93-55bc107d8afd" CvTextArea="189, 1091, 171, 19" CvTextArgument="FORMA DE USO:" CvType="Text" DesignTimeRectangle="190, 1087, 1034, 30" FuzzySelectorArgument="&lt;ctrl name=':: Guía Telefónica CNT EP ::' role='document' matching:name='fuzzy' fuzzylevel:name='0.0' /&gt;&lt;ctrl automationid='' role='grouping' matching:automationid='fuzzy' fuzzylevel:automationid='0.0' check:text='FORMA DE USO:' /&gt;" Guid="992eb50d-1dc5-46ab-b549-d7eb9316ce1a" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="c32f2e694b86acdcc8d9b8ad8de78d85.png" xmlns="">0vPtkIGUheE60f4yfcHYhvg</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

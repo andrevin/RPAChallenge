@@ -1,0 +1,173 @@
+﻿{
+  "Metadata": {
+    "Id": "eb86be82-b801-498d-9c3d-186e8849467e",
+    "Kind": "FormIo"
+  },
+  "DesignProperties": {
+    "Title": "Formulario de Datos CNT",
+    "Theme": "Flatly",
+    "ShowInTaskbar": true,
+    "ShowMargin": true,
+    "CustomStyle": ""
+  },
+  "Data": {
+    "components": [
+      {
+        "title": "Ingreso de Datos - Guía Telefónica CNT",
+        "collapsible": false,
+        "key": "panel",
+        "type": "panel",
+        "label": "Panel",
+        "input": false,
+        "tableView": false,
+        "components": [
+          {
+            "label": "Apellido",
+            "labelPosition": "left-left",
+            "tableView": true,
+            "validate": {
+              "required": true,
+              "pattern": "^[^\\s]+$",
+              "customMessage": "Ingrese un solo apellido"
+            },
+            "key": "apellido",
+            "type": "textfield",
+            "input": true
+          },
+          {
+            "label": "Provincia",
+            "labelPosition": "left-left",
+            "widget": "choicesjs",
+            "tableView": true,
+            "data": {
+              "values": [
+                {
+                  "label": "AZUAY",
+                  "value": "AZUAY"
+                },
+                {
+                  "label": "BOLIVAR",
+                  "value": "BOLIVAR"
+                },
+                {
+                  "label": "CAÑAR",
+                  "value": "CAÑAR"
+                },
+                {
+                  "label": "CHIMBORAZO",
+                  "value": "CHIMBORAZO"
+                },
+                {
+                  "label": "COTOPAXI",
+                  "value": "COTOPAXI"
+                },
+                {
+                  "label": "EL ORO",
+                  "value": "EL ORO"
+                },
+                {
+                  "label": "ESMERALDAS",
+                  "value": "ESMERALDAS"
+                },
+                {
+                  "label": "GALAPAGOS",
+                  "value": "GALAPAGOS"
+                },
+                {
+                  "label": "GUAYAS",
+                  "value": "GUAYAS"
+                },
+                {
+                  "label": "IMBABURA",
+                  "value": "IMBABURA"
+                },
+                {
+                  "label": "LOJA",
+                  "value": "LOJA"
+                },
+                {
+                  "label": "LOS RIOS",
+                  "value": "LOS RIOS"
+                },
+                {
+                  "label": "MANABI",
+                  "value": "MANABI"
+                },
+                {
+                  "label": "MORONA SANTIAGO",
+                  "value": "MORONA SANTIAGO"
+                },
+                {
+                  "label": "NAPO",
+                  "value": "NAPO"
+                },
+                {
+                  "label": "ORELLANA",
+                  "value": "ORELLANA"
+                },
+                {
+                  "label": "PASTAZA",
+                  "value": "PASTAZA"
+                },
+                {
+                  "label": "PICHINCHA",
+                  "value": "PICHINCHA"
+                },
+                {
+                  "label": "SANTA ELENA",
+                  "value": "SANTA ELENA"
+                },
+                {
+                  "label": "SANTO DOMINGO DE LOS TSACHILAS",
+                  "value": "SANTO DOMINGO DE LOS TSACHILAS"
+                },
+                {
+                  "label": "SUCUMBIOS",
+                  "value": "SUCUMBIOS"
+                },
+                {
+                  "label": "TUNGURAHUA",
+                  "value": "TUNGURAHUA"
+                },
+                {
+                  "label": "",
+                  "value": ""
+                },
+                {
+                  "label": "",
+                  "value": ""
+                }
+              ]
+            },
+            "validate": {
+              "required": true
+            },
+            "key": "provincia",
+            "type": "select",
+            "input": true
+          },
+          {
+            "label": "Email",
+            "labelPosition": "left-left",
+            "tableView": true,
+            "validate": {
+              "required": true
+            },
+            "key": "email",
+            "type": "email",
+            "input": true
+          },
+          {
+            "label": "Enviar",
+            "disableOnInvalid": true,
+            "tableView": false,
+            "key": "submit",
+            "type": "button",
+            "input": true,
+            "saveOnEnter": true
+          }
+        ]
+      }
+    ]
+  }
+}
